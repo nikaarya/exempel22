@@ -1,1 +1,18 @@
-Tom textfil
+commit 720aedee3c8bd1b69a1f092b779b6ae77631d9d3 (HEAD -> master, origin/newFeature, origin/master, newFeature)
+Author: nikaarya <nik.ary94@gmail.com>
+Date:   Mon Nov 2 16:56:35 2020 +0100
+
+    Kommentar till textfilen
+
+commit 3aa24de16818893db84264fb94b9dc5d30b1da4d
+Author: nikaarya <nik.ary94@gmail.com>
+Date:   Mon Nov 2 16:40:34 2020 +0100
+
+    En kommentar till raedme filen
+
+commit cab0ffa50582b80d1090101ea6be1386b3966b08
+Author: nikaarya <nik.ary94@gmail.com>
+Date:   Mon Nov 2 16:22:57 2020 +0100
+
+    Skriv en kommentar
+nikaarya@Nikas-MacBook-Air-2020 git-exempel % 
